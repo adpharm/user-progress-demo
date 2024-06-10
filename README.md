@@ -32,6 +32,7 @@ As a bonus, if you can develop your dashboard in the style of [Loom](https://www
 
 ## FAQs
 
+- **Is there a deadline?** No, there is no deadline. Do keep in mind that we will review submissions on a first-come, first-serve basis.
 - **Can I use any third-party libraries?** Yes, you can use any third-party libraries you like.
 - **Can I use a UI library?** Yes, you can use a UI library like Chakra UI, Ant Design, etc.
 - **Can I change/add files to the project?** Yes, you can change/add any files you like.
