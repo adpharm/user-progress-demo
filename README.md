@@ -6,7 +6,7 @@ Welcome! This is The Adpharm's version of a technical assessment.
 
 This project is a React (TypeScript) + Vite + Tailwind starter template.
 
-In [src/lib/data.ts](src/lib/data.ts), you will find a list of users (usersProgress). Your task is to create a dashboard that displays the list of users and their progress through a set of learning modules.
+In [src/lib/data.ts](src/lib/data.ts), you will find an AI-generated list of users (usersProgress). Your task is to create a dashboard that displays the list of users and their progress through a set of learning modules.
 
 Your audience is a manager who wants to see how their team is progressing through a set of learning modules. They need to see a list of all users, their progress, and a visual representation of their progress. The information should be easily accessible and quickly understandable at a glance.
 
