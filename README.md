@@ -49,7 +49,7 @@ Good luck!!
 
 ## Getting started
 
-First, clone this repository to your local machine.
+First, either fork this repository or clone it to your local machine and change the remote URL to your own repository.
 
 This is a React SPA bootstrapped with `npm create vite@latest app-name -- --template react-ts`. Run the following commands to get started:
 
